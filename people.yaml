@@ -1,0 +1,28 @@
+friends:
+  - Rachel: 
+      skills:
+       - played by jen aniston
+       - fashion girl
+       - loves ross
+       family:
+       - mom
+       - dad
+       - sisters
+  - Monica: 
+      skills:
+        - crazy cleaner
+        - good cook
+      family: 
+        - brother
+        - mom
+        - dad
+  - Phoebe: 
+      skills:
+      - singer
+      - song writer
+      - massues 
+      family:
+      - brother
+      - nephew
+
+3
